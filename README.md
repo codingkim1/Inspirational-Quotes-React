@@ -3,6 +3,9 @@ This is an app that enables users to access various inspirational quotes, create
 
 # Introduction
 This is a front-end application that fetches data from my API
+ 
+# Backend API
+https://github.com/codingkim1/phase-3-sinatra-react-project
 
 # Run Application 
 To run the app on your browser you may run 'npm start'
